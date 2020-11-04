@@ -1,0 +1,89 @@
+* {
+  user-select: none;
+}
+body {
+  /* background-color: rgb(229, 230, 231); */
+  font-family: "Trispace", sans-serif;
+  max-width: 450px;
+  margin: 0% 35%;
+}
+main {
+  background: url("./-ENDSARS-Memorial-Project/img/bg-stamp.png")
+    rgb(229, 230, 231);
+  width: 100%;
+  /* height: 100vh; */
+  /* margin: ; */
+}
+h1 {
+  padding-top: 5%;
+  /* padding-bottom: 5%; */
+  /* padding: 10% 0; */
+  text-align: center;
+  text-transform: capitalize;
+}
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+.foot {
+  text-align: center;
+}
+.container {
+  height: 40vh;
+  width: 90%;
+  margin: 0 5%;
+  margin-bottom: 5%;
+  /* padding: 0 5%; */
+  display: inline-flex;
+  /* position: absolute; */
+}
+.grey {
+  color: #423f40;
+}
+.weight {
+  font-weight: 700;
+}
+.green {
+  color: #1f7a54;
+}
+.sm-green {
+  color: #2d825f;
+}
+.sm-weight {
+  font-weight: 700;
+}
+.container img {
+  /* background-color: aquamarine; */
+  width: 50%;
+
+  /* position: relative; */
+}
+.container div {
+  background-color: #fff;
+  border: 1px solid rgb(229, 230, 231);
+  float: right;
+  padding: 0 5%;
+  /* text-align: left; */
+  width: 100%;
+  /* justify-content: center;
+   */
+  text-align: start;
+}
+.heading {
+  margin-top: 10%;
+  font-size: 1.9em;
+}
+/* .profile,
+.foot {
+  margin-top: 5%;
+} */
+.sub-heading {
+  font-size: 1.3em;
+}
+/* .details {
+  margin-top: 5%;
+} */
+.margin-top-md {
+  margin-top: 5%;
+}
